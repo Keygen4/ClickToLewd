@@ -104,6 +104,7 @@ $RECYCLE.BIN/
 # Local Grok ↔ Unreal Editor MCP bridge (personal, do not push)
 .grok/
 Config/DefaultEditorPerProjectUserSettings.ini
+Content/Python/
 
 # Local tooling
 *.bak
